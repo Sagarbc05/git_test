@@ -1,1 +1,2 @@
 Second line
+Added this line to create merge conflict
