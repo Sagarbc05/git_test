@@ -3,8 +3,5 @@ This is Mohith
 Son of Raju
 kannada
 Made in India
-<<<<<<< Updated upstream
 testing merge conflicts
-=======
 one more time
->>>>>>> Stashed changes
