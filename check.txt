@@ -5,3 +5,6 @@ kannada
 Hi there
 check this out
 starting fresh
+
+// new
+assertions
