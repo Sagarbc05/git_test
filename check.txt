@@ -5,3 +5,7 @@ kannada
 Hi there
 check this out
 starting fresh
+
+
+// New lines
+RTL
