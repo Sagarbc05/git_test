@@ -7,3 +7,4 @@ one more time
 Hi there
 check this out
 Adding this line to create merge conflict
+second line for merge conflict
